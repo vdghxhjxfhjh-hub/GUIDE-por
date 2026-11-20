@@ -5,7 +5,7 @@
 // 빈 주소 또는 불러오기 실패 시 기존 회색 실루엣을 표시합니다.
 window.GUIDE_IMAGES = {
   staff: {
-    assistant: '', // [조교 프로필]
+    assistant: 'https://pub-9e3052bb899543deb1b36d8c93b55032.r2.dev/profile-placeholder.svg', // [조교 프로필]
     instructor: '', // [교관 프로필 — 기존 열람 제한 유지]
     researcher: 'https://pub-ea583730072d437db7db3801624b8b65.r2.dev/researcher.png' // [연구원 프로필]
   },
